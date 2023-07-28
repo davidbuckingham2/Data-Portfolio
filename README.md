@@ -8,7 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](#python-movie-analysis)
+    - [Exploring Correlations in Movie Data](#python-movie-analysis)
   - SQL
     - [Covid 19 Data Exploration](#covid-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
