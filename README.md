@@ -8,17 +8,19 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie]()
+    - [Analyzing the Factors Contributing to the Success of a Movie](#python-movie-analysis)
   - SQL
-    - [Covid 19 Data Exploration]()
-    - [Nashville Housing Data Cleaning]()
+    - [Covid 19 Data Exploration](#covid-data-exploration)
+    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/david.buckingham)
   - Power BI
+- [Education and Certificates](#education)
+- [Contact](#contacts)
 
-## Portfolio Projects <a name="portfolio_projects"></a>
+## Portfolio Projects <a name="portfolio-projects"></a>
 In this section I will showcase projects I have done, briefly describing the technology stack used in each.
-### Exploring Correlations in Movie Data
+### Exploring Correlations in Movie Data <a name="python-movie-analysis"></a>
 **Code:** [Exploring Correlations in Movie Data using Python](https://github.com/davidbuckingham2/Python-movie-data-analysis/blob/main/Analyzing%20movie%20data%20in%20python.ipynb)
 
 **Goal:** Determine which factors contribute to the success of a movie
@@ -31,7 +33,7 @@ In this section I will showcase projects I have done, briefly describing the tec
 
 **Conclusion:** The factors contributing to the success of a movie are votes and budget as they have the highest correlation. It was also determined that, despite my own hypothesis, the Company, Movie name, and Genre had no significant correlation to a movies success.
 
-### Nashville Housing Data Cleaning
+### Nashville Housing Data Cleaning <a name="nashville-housing-data-cleaning"></a>
 **Code:** [`Nashville Housing Data Cleaning in SQL](https://github.com/davidbuckingham2/Cleaning-Nashville-Housing-data)
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes several data cleaning tasks such as standardizing date formats, populating missing data, removing duplicates, and more.
@@ -40,7 +42,7 @@ In this section I will showcase projects I have done, briefly describing the tec
 
 **Technology:** SQL Server
 
-### Covid 19 Data Exploration
+### Covid 19 Data Exploration <a name="covid-data-exploration"></a>
 **Code:** [`Exploring COVID data in SQL`](https://github.com/davidbuckingham2/Covid-Data-Exploration/blob/main/SQL_covid_exploration.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country from 2020-2023. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
@@ -49,7 +51,7 @@ In this section I will showcase projects I have done, briefly describing the tec
 
 **Technology:** SQL Server
 
-## Education and Certificates
+## Education and Certificates <a name="education"></a>
 
 * University of North Texas:  Bachelors of Science in Kinesiology, Minor in Social Science, 2017 - 2020
 * Google Data Analytics Professional Certificate (Coursera - Google)
@@ -57,7 +59,7 @@ In this section I will showcase projects I have done, briefly describing the tec
 * Python Fundamentals (DataCamp)
 * Tableau Fundamentals (DataCamp)
 
-## Contacts
+## Contacts <a name="contacts"></a>
 * LinkedIn: [@davidbuckingham](https://www.linkedin.com/in/david-buckingham-a9a35a253/)
 * Email: davidbuckingham2@yahoo.com
 
