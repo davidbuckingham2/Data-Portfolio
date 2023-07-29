@@ -12,6 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [Covid 19 Data Exploration](#covid-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
+    - [Video Game Data Analysis](#video-game-analysis)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/david.buckingham)
   - Power BI
@@ -34,7 +35,7 @@ In this section I will showcase projects I have done, briefly describing the tec
 **Conclusion:** The factors contributing to the success of a movie are votes and budget as they have the highest correlation. It was also determined that, despite my own hypothesis, the Company, Movie name, and Genre had no significant correlation to a movies success.
 
 ### Nashville Housing Data Cleaning <a name="nashville-housing-data-cleaning"></a>
-**Code:** [`Nashville Housing Data Cleaning in SQL](https://github.com/davidbuckingham2/Cleaning-Nashville-Housing-data)
+**Code:** [Nashville Housing Data Cleaning in SQL](https://github.com/davidbuckingham2/Cleaning-Nashville-Housing-data)
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes several data cleaning tasks such as standardizing date formats, populating missing data, removing duplicates, and more.
 
@@ -43,11 +44,21 @@ In this section I will showcase projects I have done, briefly describing the tec
 **Technology:** SQL Server
 
 ### Covid 19 Data Exploration <a name="covid-data-exploration"></a>
-**Code:** [`Exploring COVID data in SQL`](https://github.com/davidbuckingham2/Covid-Data-Exploration/blob/main/SQL_covid_exploration.sql)
+**Code:** [Exploring COVID data in SQL](https://github.com/davidbuckingham2/Covid-Data-Exploration/blob/main/SQL_covid_exploration.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country from 2020-2023. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** SQL Server
+
+### Video Game Data Analysis <a name="video-game-analysis"></a>
+
+**Code:** [Video Games Data Analysis](https://github.com/davidbuckingham2/SQL-Video-Game-Analysis/tree/main)
+
+**Description:** In this project I analyzed a dataset found on Kaggles containing data on video games released from 1977-2020.  By comparing the tables on game sales with with critc and user reviews, I was able to gather various insights on the video game market throughout the years.
+
+**Skills:** Joins, Set operations, Subqueries, Aggregate functions, EDA (Exploratory Data Analysis)
 
 **Technology:** SQL Server
 
