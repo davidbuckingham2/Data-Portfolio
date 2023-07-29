@@ -56,7 +56,7 @@ In this section I will showcase projects I have done, briefly describing the tec
 
 **Code:** [Video Games Data Analysis](https://github.com/davidbuckingham2/SQL-Video-Game-Analysis/tree/main)
 
-**Description:** In this project I analyzed a dataset found on Kaggles containing data on video games released from 1977-2020.  By comparing the tables on game sales with with critc and user reviews, I was able to gather various insights on the video game market throughout the years.
+**Description:** In this project I analyzed a dataset found on Kaggle containing data on video games released from 1977-2020.  By comparing the tables on game sales with with critc and user reviews, I was able to gather various insights on the video game market throughout the years.
 
 **Skills:** Joins, Set operations, Subqueries, Aggregate functions, EDA (Exploratory Data Analysis)
 
