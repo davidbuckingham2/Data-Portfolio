@@ -66,8 +66,10 @@ In this section I will showcase projects I have done, briefly describing the tec
 
 * University of North Texas:  Bachelors of Science in Kinesiology, Minor in Social Science, 2017 - 2020
 * Google Data Analytics Professional Certificate (Coursera - Google)
+* Data Analyst in SQL (DataCamp)
 * SQL Fundamentals (DataCamp)
 * Python Fundamentals (DataCamp)
+* PowerBI Fundamentals (DataCamp)
 * Tableau Fundamentals (DataCamp)
 
 ## Contacts <a name="contacts"></a>
