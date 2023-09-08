@@ -1,6 +1,6 @@
 # David Buckingham - Data Portfolio
 ## About <a name="about"></a>
-Hello, I'm David.  I have had a unique journey into the world of data, getting my BS in Kinsiology/Exercise science, working in Parks and Rec, and then aviation logistics, discovering a passion for using data to uncover meaningful insights along the way.  Combining my strong foundation in life sciences, leadership and social skills learned working in Parks and Recreation, and the technical and analytical skills learned from aviation logistics, I am excited to bring a unique perspective to the world of data.
+Hello, I'm David, and I have had a unique journey into the world of data. Starting my BS in Kinsiology/Exercise science I went on to work in Parks and Rec, took some time off to fly and earn my private pilots license, before moving into aviation logistics.  Along this journey, i discovered a passion for using data to uncover meaningful insights.  Combining my strong foundation in life sciences, leadership and social skills learned working in Parks and Recreation, critical thinking and problem solving needed to fly, and the technical and analytical skills learned from aviation logistics, I am excited to bring a unique perspective to the world of data.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
