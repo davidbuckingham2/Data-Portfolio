@@ -13,6 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Covid 19 Data Exploration](#covid-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
     - [Video Game Data Analysis](#video-game-analysis)
+    - [LEGO Data Exploration](#lego-data-analysis)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/david.buckingham)
   - Power BI
@@ -61,6 +62,17 @@ In this section I will showcase projects I have done, briefly describing the tec
 **Skills:** Joins, Set operations, Subqueries, Aggregate functions, EDA (Exploratory Data Analysis)
 
 **Technology:** SQL Server
+
+### LEGO Data Analysis <a name="lego-data-analysis"></a>
+**Code:** [LEGO Data Analysis](https://github.com/davidbuckingham2/Lego-Data-SQL-Analysis)
+
+**Goal:** Explore insights and trends within a LEGO dataset.
+
+**Description:** This project involved the analysis of a comprehensive LEGO dataset, encompassing LEGO sets, themes, and parts. SQL was used to extract, transform, and analyze the data. The primary focus was on understanding patterns related to LEGO set sizes, themes, release years, and seasonal trends.
+
+**Skills:** SQL data extraction, data transformation, JOINs, aggregation, subqueries, common table expressions (CTEs), 
+
+**Technology**: PostgreSQL, SQL Server
 
 ## Education and Certificates <a name="education"></a>
 
