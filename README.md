@@ -9,6 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
   - Python
     - [Exploring Correlations in Movie Data](#python-movie-analysis)
+    - [Cleaning NAICS Data with Python](#NAICS-data-cleaning)
   - SQL
     - [Covid 19 Data Exploration](#covid-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
@@ -34,6 +35,15 @@ In this section I will showcase projects I have done, briefly describing the tec
 **Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 **Conclusion:** The factors contributing to the success of a movie are votes and budget as they have the highest correlation. It was also determined that, despite my own hypothesis, the Company, Movie name, and Genre had no significant correlation to a movies success.
+
+### Cleaning NAICS Data with Python <a name="NAICS-data-cleaning"></a>
+**Code:** [Cleaning NAICS Data with Python](https://github.com/davidbuckingham2/Python-Data-Cleaning-with-Table-of-Size-Standards/blob/main/'Table%20of%20Size%20Standards'%20Data%20Cleaning.ipynb)
+
+**Description:** This project focuses on cleaning and preparing a dataset containing information about NAICS (North American Industry Classification System) codes, industry descriptions, and size standards for businesses. The goal of this project is to demonstrate essential data cleaning skills.
+
+**Skills:** ETL, Data Cleaning, String Manipulation, Data Appending, Data Exploration
+
+**Technology:** Pandas, Numpy
 
 ### Nashville Housing Data Cleaning <a name="nashville-housing-data-cleaning"></a>
 **Code:** [Nashville Housing Data Cleaning in SQL](https://github.com/davidbuckingham2/Cleaning-Nashville-Housing-data)
