@@ -10,6 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     - [Exploring Correlations in Movie Data](#python-movie-analysis)
     - [Cleaning NAICS Data with Python](#NAICS-data-cleaning)
+    - [Exploring Public Loan Data with Python](#Exploring-Public-Loan-Data-with-Python)
   - SQL
     - [Covid 19 Data Exploration](#covid-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
@@ -44,6 +45,15 @@ In this section I will showcase projects I have done, briefly describing the tec
 **Skills:** ETL, Data Cleaning, String Manipulation, Data Appending, Data Exploration
 
 **Technology:** Pandas, Numpy
+
+### Exploring Public Loan Data with Python <a name="Exploring-Public-Loan-Data-with-Python"></a>
+ **Code**: [Exploring Public Loan Data with Python](https://github.com/davidbuckingham2/Exploring-Public-Loan-Data-with-Python/blob/main/Exploring%20Public%20Loan%20Data%20with%20Python.ipynb)
+ 
+ **Description**: This is a data exploration project that focuses on analyzing a dataset related to Small Business Administration (SBA) loans. The project uses Python and various data analysis libraries to perform data cleaning, visualization, and statistical analysis on the dataset.
+  
+ **Skills Used**: Data Cleaning and Preprocessing, Data Visualization using Matplotlib and Seaborn, Univariate and Bivariate Analysis, Descriptive Statistics
+  
+**Technology:** Pandas, Numpy, Matplotlib, Seaborn
 
 ### Nashville Housing Data Cleaning <a name="nashville-housing-data-cleaning"></a>
 **Code:** [Nashville Housing Data Cleaning in SQL](https://github.com/davidbuckingham2/Cleaning-Nashville-Housing-data)
