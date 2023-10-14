@@ -24,6 +24,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects <a name="portfolio-projects"></a>
 In this section I will showcase projects I have done, briefly describing the technology stack used in each.
+
+## Python
 ### Exploring Correlations in Movie Data <a name="python-movie-analysis"></a>
 **Code:** [Exploring Correlations in Movie Data using Python](https://github.com/davidbuckingham2/Python-movie-data-analysis/blob/main/Analyzing%20movie%20data%20in%20python.ipynb)
 
@@ -55,6 +57,7 @@ In this section I will showcase projects I have done, briefly describing the tec
   
 **Technology:** Pandas, Numpy, Matplotlib, Seaborn
 
+## SQL
 ### Nashville Housing Data Cleaning <a name="nashville-housing-data-cleaning"></a>
 **Code:** [Nashville Housing Data Cleaning in SQL](https://github.com/davidbuckingham2/Cleaning-Nashville-Housing-data)
 
