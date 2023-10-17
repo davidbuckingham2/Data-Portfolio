@@ -27,7 +27,7 @@ In this section I will showcase projects I have done, briefly describing the tec
 
 ## Python
 ### Exploring Correlations in Movie Data <a name="python-movie-analysis"></a>
-**Code:** [Exploring Correlations in Movie Data using Python](https://github.com/davidbuckingham2/Python-movie-data-analysis/blob/main/Analyzing%20movie%20data%20in%20python.ipynb)
+**Code:** [Exploring Correlations in Movie Data using Python](https://github.com/davidbuckingham2/Python-movie-data-analysis/tree/main)
 
 **Goal:** Determine which factors contribute to the success of a movie
 
