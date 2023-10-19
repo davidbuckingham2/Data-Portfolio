@@ -9,6 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
   - Python
     - [Exploring Correlations in Movie Data](#python-movie-analysis)
+    - [Beer Data Analysis with Python](#beer-data-analysis)
     - [Cleaning NAICS Data with Python](#NAICS-data-cleaning)
     - [Exploring Public Loan Data with Python](#Exploring-Public-Loan-Data-with-Python)
   - SQL
@@ -38,6 +39,15 @@ In this section I will showcase projects I have done, briefly describing the tec
 **Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 **Conclusion:** The factors contributing to the success of a movie are votes and budget as they have the highest correlation. It was also determined that, despite my own hypothesis, the Company, Movie name, and Genre had no significant correlation to a movies success.
+
+### Beer Data Analysis with Python <a name="beer-data-analysis"></a>
+**Code:** [Beer Data Analysis](https://github.com/davidbuckingham2/Beer-Data-Analysis/tree/main)
+
+**Description:** This project explores a dataset featuring beer-related information and user reviews. Through data exploration, cleaning, and analytical techniques, I was able to gain insight into the beer industry! Highlights include brewery ranking, determination of the best year for beer ratings, and the identification of the most influential factors in user ratings. The project concludes with data-driven recommendations for the top-rated beers.  I had a lot of fun with this one so I hope you enjoy!
+
+**Skills:** ETL, Data cleaning, Data xploration and nalysis, Data visualization, Correlation analysis, statistical analysis
+
+**Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 ### Cleaning NAICS Data with Python <a name="NAICS-data-cleaning"></a>
 **Code:** [Cleaning NAICS Data with Python](https://github.com/davidbuckingham2/Python-Data-Cleaning-with-Table-of-Size-Standards/blob/main/'Table%20of%20Size%20Standards'%20Data%20Cleaning.ipynb)
