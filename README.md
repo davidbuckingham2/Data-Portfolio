@@ -8,6 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - Python
+    - [Ark Nova Strategic Analysis](#ark-nova-analysis)
     - [Exploring Correlations in Movie Data](#python-movie-analysis)
     - [Beer Data Analysis with Python](#beer-data-analysis)
     - [Cleaning NAICS Data with Python](#NAICS-data-cleaning)
@@ -27,6 +28,20 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will showcase projects I have done, briefly describing the technology stack used in each.
 
 ## Python
+
+### Ark Nova Strategic Analysis <a name="ark-nova-analysis"></a>
+**Code:** [Ark Nova Strategic Analysis](https://github.com/davidbuckingham2/Ark-Nova-Game-Analysis/tree/main)
+
+**Goal:** To analyze and derive strategic insights from the board game Ark Nova.
+
+**Description:** This project involves a detailed analysis of Ark Nova, a strategy board game where players manage zoos. The focus was on animal costs, enclosure requirements, and tag distribution to devise effective gameplay strategies. The project encompassed data cleaning, exploratory data analysis, and visualization to understand the dynamics of managing a zoo within the game's framework.
+
+**Skills:** Data cleaning and manipulation, Exploratory Data Analysis (EDA), Visualization, Statistical Analysis.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
+
+**Key Findings:** The analysis revealed strategic use of tags, importance of diversity in animal types, efficient budgeting for animal purchases, and the significance of size 2 enclosures. It highlighted the balance between high-appeal animals and practical cost considerations.
+
 ### Exploring Correlations in Movie Data <a name="python-movie-analysis"></a>
 **Code:** [Exploring Correlations in Movie Data using Python](https://github.com/davidbuckingham2/Python-movie-data-analysis/tree/main)
 
@@ -38,7 +53,7 @@ In this section I will showcase projects I have done, briefly describing the tec
 
 **Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib.
 
-**Conclusion:** The factors contributing to the success of a movie are votes and budget as they have the highest correlation. It was also determined that, despite my own hypothesis, the Company, Movie name, and Genre had no significant correlation to a movies success.
+**Key Findings:** The factors contributing to the success of a movie are votes and budget as they have the highest correlation. It was also determined that, despite my own hypothesis, the Company, Movie name, and Genre had no significant correlation to a movies success.
 
 ### Beer Data Analysis with Python <a name="beer-data-analysis"></a>
 **Code:** [Beer Data Analysis](https://github.com/davidbuckingham2/Beer-Data-Analysis/tree/main)
